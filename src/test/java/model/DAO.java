@@ -14,6 +14,6 @@ public class DAO {
     }
     EntityManagerFactory entityManagerFactory = Persistence.createEntityManagerFactory("connect");
 
-
+// c n'est pas encore fini
     public static void savecommercant(commercant commercant) {
-        EntityManager entityManager = EntityManagerFactory.createEnti<persistence xmlns="http://xmlns.jcp.org/xml/ns/persistence" version="2.2">
+    }
